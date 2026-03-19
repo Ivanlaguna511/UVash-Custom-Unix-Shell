@@ -5,7 +5,7 @@
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![POSIX](https://img.shields.io/badge/API-POSIX_System_Calls-blue?style=for-the-badge)
-  ![Academic](https://img.shields.io/badge/Academic_Project-OS_Course-purple?style=for-the-badge)
+  ![Academic](https://img.shields.io/badge/Academic_Project-2nd Year-purple?style=for-the-badge)
 
 </div>
 

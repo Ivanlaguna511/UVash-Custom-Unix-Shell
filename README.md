@@ -1,4 +1,6 @@
+<p align="center">
 # UVash: Custom Unix Shell
+</p>
 
 <div align="center">
   

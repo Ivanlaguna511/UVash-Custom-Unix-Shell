@@ -10,7 +10,9 @@ A minimalist, high-performance Unix shell built in C using POSIX system calls. T
 * **Built-in Commands:** * `cd`: Native directory traversal.
   * `exit`: Graceful termination ensuring all memory is freed.
  
-<img width="410" height="197" alt="snapshot" src="https://github.com/user-attachments/assets/598a07d8-590f-433a-bc11-aeb9f13efc23" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/598a07d8-590f-433a-bc11-aeb9f13efc23" alt="UVash Snapshot" width="75%" style="max-width: 100%; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+</p>
 
 ## Architecture
 
@@ -25,7 +27,7 @@ Use GCC to compile the source code:
 gcc -Wall -Werror -O2 -o UVash UVash.c
 ```
 
-## Compilation
+## Usage
 
 ### Interactive Mode:
 

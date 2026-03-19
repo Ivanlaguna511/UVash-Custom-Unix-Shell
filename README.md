@@ -1,6 +1,15 @@
 # UVash: Custom Unix Shell
 
-A minimalist, high-performance Unix shell built in C using POSIX system calls. This project demonstrates low-level operating system concepts such as process creation, inter-process communication, and I/O redirection.
+<div align="center">
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![POSIX](https://img.shields.io/badge/API-POSIX_System_Calls-blue?style=for-the-badge)
+  ![Academic](https://img.shields.io/badge/Academic_Project-OS_Course-purple?style=for-the-badge)
+
+</div>
+
+ A minimalist, high-performance Unix shell built in C using POSIX system calls. This project demonstrates low-level operating system concepts such as process creation, inter-process communication, and I/O redirection. It was made as a project for the **OS Structure** (2nd Year, 2nd Quarter) subject.
 
 ## Features
 
